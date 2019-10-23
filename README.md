@@ -33,3 +33,5 @@ Follow me on Twitter for more about Apache NiFi - [@pvillard31](https://twitter.
 Picture this: you are in a factory making cookies... you have hundreds of cookies going through your production lines per second and you want to make your customers happy! Problem: a broken cookie makes an unhappy customer! So you want a way to detect the broken cookies before they get into the final packaging.
 
 Here I take the example of cookies, but it could really be anything related to visual quality inspection in the retail, manufacturing, etc industries.
+
+# THE CONTENT IS COMING! I PROMISE ;)
