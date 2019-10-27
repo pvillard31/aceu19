@@ -20,7 +20,7 @@ Follow me on Twitter for more about Apache NiFi - [@pvillard31](https://twitter.
 
 ## Video, audio, slides...
 
-- Slides of my presentation
+- [Slides of my presentation](./slides/ACEU19-NiFi-MiNiFi-Visual_Quality_Inspection_At_The_Edge.pdf)
 - Video & audio (soon)
 
 ## Versions
