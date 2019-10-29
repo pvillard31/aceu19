@@ -1,6 +1,9 @@
 # ApacheCon Europe 2019 - Running visual quality inspection at the edge with Apache NiFi & MiNiFi
 
-This is the repository covering the talk I gave in Berlin on the 23rd of October 2019 about running visual quality inspection at the edge with Apache NiFi & MiNiFi. 
+This is the repository covering the talk I gave in Berlin on the 23rd of October 2019 about running visual quality inspection at the edge with Apache NiFi & MiNiFi.
+
+## The story
+- Article on [Medium](https://medium.com/@pierre.villard/running-visual-quality-inspection-at-the-edge-with-google-cloud-and-apache-nifi-minifi-45282ce7af2d) (or on my [website](https://pierrevillard.com/2019/10/29/running-visual-quality-inspection-at-the-edge-with-google-cloud-and-apache-nifi-minifi/))
 
 ## Introduction
 
